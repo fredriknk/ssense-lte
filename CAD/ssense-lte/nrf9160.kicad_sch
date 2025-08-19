@@ -6656,6 +6656,10 @@
 		(uuid "47ac3985-8249-4e68-a4c3-0dc10b021bdd")
 	)
 	(no_connect
+		(at 38.1 175.26)
+		(uuid "5d737680-f7d2-4036-9537-12e70711aa76")
+	)
+	(no_connect
 		(at 228.6 92.71)
 		(uuid "615d0ef2-9ad5-4101-aa3c-f51eb7ac9020")
 	)
@@ -7411,7 +7415,7 @@
 	)
 	(global_label "SIM_RST"
 		(shape input)
-		(at 38.1 172.72 180)
+		(at 38.1 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7421,7 +7425,7 @@
 		)
 		(uuid "3e39877b-92d2-4696-88e1-14a3679cf912")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.4344 172.72 0)
+			(at 28.9462 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7601,7 +7605,7 @@
 	)
 	(global_label "SIM_IO"
 		(shape input)
-		(at 38.1 167.64 180)
+		(at 38.1 172.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7611,7 +7615,7 @@
 		)
 		(uuid "5636a469-f541-49da-a9af-1a23562fdd6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.9462 167.64 0)
+			(at 27.4344 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9161,7 +9165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 67.31 151.638 90)
 			(effects
 				(font
@@ -9302,7 +9306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 254 36.322 90)
 			(effects
 				(font
@@ -12558,7 +12562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 67.31 141.478 90)
 			(effects
 				(font
@@ -13721,7 +13725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 67.31 144.018 90)
 			(effects
 				(font
@@ -14525,7 +14529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 208.788 99.06 90)
 			(effects
 				(font

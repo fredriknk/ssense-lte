@@ -183,10 +183,6 @@
           ""
         ],
         [
-          "starved_thermal|129888938|73013401|469ea004-b571-4fe5-aa22-d1b666420ddf|b91e5b42-e92c-43a3-b5f1-24bfae108361|F.Cu",
-          ""
-        ],
-        [
           "starved_thermal|83099782|63850000|469ea004-b571-4fe5-aa22-d1b666420ddf|65f60891-886a-42f8-ac86-3acbb1c5f492|F.Cu",
           ""
         ]
@@ -868,7 +864,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Footprint"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
